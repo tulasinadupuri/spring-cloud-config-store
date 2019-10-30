@@ -1,0 +1,4 @@
+service:
+  greeting: Hello from intService Default
+  id: 11111
+ 
